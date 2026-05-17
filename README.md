@@ -1,4 +1,4 @@
 # first-Tarun
 This is my first Git Repository
 <br>
-Author - Tarun Solanki
+Author - Tarun Solanki (thakur)
